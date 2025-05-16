@@ -15,8 +15,7 @@ The project also focuses on data cleaning, handling null values, and solving rea
 An ERD diagram is included to visually represent the database schema and relationships between tables.
 
 ---
-
-![ERD Scratch](Amazon ERD.png)
+![Data Architecture](AmazonERD.png)
 
 ## **Database Setup & Design**
 
