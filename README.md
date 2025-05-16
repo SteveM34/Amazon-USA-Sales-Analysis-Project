@@ -16,7 +16,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch]Amazon-USA-Sales-Analysis-Project/Amazon ERD.png
+![ERD Scratch](Amazon ERD.png)
 
 ## **Database Setup & Design**
 
